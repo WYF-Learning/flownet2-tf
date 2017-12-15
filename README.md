@@ -3,6 +3,13 @@
 This repo contains FlowNet2[1] for TensorFlow. It includes FlowNetC, S, CS, CSS, CSS-ft-sd, SD, and 2.
 
 In order to run, use 
+`conda create -n flownet2 python=2.7.13`
+to create an enviroment with python 2.7.13. Then use
+```
+source activate flownet2
+pip install tensorflow-gpu=1.2.1
+```
+to install tensorflow 1.2.1 for gpu. The cudnn also need to change to 5.1.
 
 ### Installation
 ```
