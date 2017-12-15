@@ -2,6 +2,8 @@
 
 This repo contains FlowNet2[1] for TensorFlow. It includes FlowNetC, S, CS, CSS, CSS-ft-sd, SD, and 2.
 
+In order to run, use 
+
 ### Installation
 ```
 pip install enum
